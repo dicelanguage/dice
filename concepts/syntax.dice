@@ -1,0 +1,6 @@
+program main;
+
+function main
+  impicit string = a
+  print* a
+end
