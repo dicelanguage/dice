@@ -1,4 +1,4 @@
-The dice programming language
+The dice programming language (wip)
 ==========================
 
 _Timo Sarkar <sartimo10@gmail.com>_
