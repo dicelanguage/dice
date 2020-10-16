@@ -1,0 +1,7 @@
+module turn.dice
+@importfen
+@newgame :name = sample (
+    @move( :e2 :e4 )
+)
+-- simple lua comments
+-- first turn protocoll
