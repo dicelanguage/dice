@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+
+set dice "path"
+set path ";dicepath"
