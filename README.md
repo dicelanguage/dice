@@ -51,8 +51,8 @@ This readme documents the setup and the functionallity of the Dice programming l
 
 ```lua
 module turn.dice
-@importfen
-@newgame :name = sample (
+importfen
+newgame :name = sample (
     @move( :e2 :e4 )
 )
 -- simple lua comments
